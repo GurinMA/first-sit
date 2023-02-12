@@ -1,0 +1,22 @@
+body {
+    background-color:mediumturquoise;
+    text-align: center;
+}
+h1 {
+    font-size: 35px;
+    color: brown;
+    margin-bottom: 40px;
+}
+p {
+ font-size: 25px;
+ color:brown;
+ margin-bottom: 40px;
+   
+}
+div{ color: brown;
+
+}
+{.output 
+    font-size: 40px;
+    color:brown;
+}
